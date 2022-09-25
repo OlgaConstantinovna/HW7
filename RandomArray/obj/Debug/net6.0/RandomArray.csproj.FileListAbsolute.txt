@@ -1,0 +1,15 @@
+D:\HW7\HomeWokr\RandomArray\bin\Debug\net6.0\RandomArray.exe
+D:\HW7\HomeWokr\RandomArray\bin\Debug\net6.0\RandomArray.deps.json
+D:\HW7\HomeWokr\RandomArray\bin\Debug\net6.0\RandomArray.runtimeconfig.json
+D:\HW7\HomeWokr\RandomArray\bin\Debug\net6.0\RandomArray.dll
+D:\HW7\HomeWokr\RandomArray\bin\Debug\net6.0\RandomArray.pdb
+D:\HW7\HomeWokr\RandomArray\obj\Debug\net6.0\RandomArray.csproj.AssemblyReference.cache
+D:\HW7\HomeWokr\RandomArray\obj\Debug\net6.0\RandomArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\HW7\HomeWokr\RandomArray\obj\Debug\net6.0\RandomArray.AssemblyInfoInputs.cache
+D:\HW7\HomeWokr\RandomArray\obj\Debug\net6.0\RandomArray.AssemblyInfo.cs
+D:\HW7\HomeWokr\RandomArray\obj\Debug\net6.0\RandomArray.csproj.CoreCompileInputs.cache
+D:\HW7\HomeWokr\RandomArray\obj\Debug\net6.0\RandomArray.dll
+D:\HW7\HomeWokr\RandomArray\obj\Debug\net6.0\refint\RandomArray.dll
+D:\HW7\HomeWokr\RandomArray\obj\Debug\net6.0\RandomArray.pdb
+D:\HW7\HomeWokr\RandomArray\obj\Debug\net6.0\RandomArray.genruntimeconfig.cache
+D:\HW7\HomeWokr\RandomArray\obj\Debug\net6.0\ref\RandomArray.dll
