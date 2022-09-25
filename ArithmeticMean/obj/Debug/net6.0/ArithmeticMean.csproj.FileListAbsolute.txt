@@ -1,0 +1,15 @@
+D:\HW7\HomeWokr\ArithmeticMean\bin\Debug\net6.0\ArithmeticMean.exe
+D:\HW7\HomeWokr\ArithmeticMean\bin\Debug\net6.0\ArithmeticMean.deps.json
+D:\HW7\HomeWokr\ArithmeticMean\bin\Debug\net6.0\ArithmeticMean.runtimeconfig.json
+D:\HW7\HomeWokr\ArithmeticMean\bin\Debug\net6.0\ArithmeticMean.dll
+D:\HW7\HomeWokr\ArithmeticMean\bin\Debug\net6.0\ArithmeticMean.pdb
+D:\HW7\HomeWokr\ArithmeticMean\obj\Debug\net6.0\ArithmeticMean.csproj.AssemblyReference.cache
+D:\HW7\HomeWokr\ArithmeticMean\obj\Debug\net6.0\ArithmeticMean.GeneratedMSBuildEditorConfig.editorconfig
+D:\HW7\HomeWokr\ArithmeticMean\obj\Debug\net6.0\ArithmeticMean.AssemblyInfoInputs.cache
+D:\HW7\HomeWokr\ArithmeticMean\obj\Debug\net6.0\ArithmeticMean.AssemblyInfo.cs
+D:\HW7\HomeWokr\ArithmeticMean\obj\Debug\net6.0\ArithmeticMean.csproj.CoreCompileInputs.cache
+D:\HW7\HomeWokr\ArithmeticMean\obj\Debug\net6.0\ArithmeticMean.dll
+D:\HW7\HomeWokr\ArithmeticMean\obj\Debug\net6.0\refint\ArithmeticMean.dll
+D:\HW7\HomeWokr\ArithmeticMean\obj\Debug\net6.0\ArithmeticMean.pdb
+D:\HW7\HomeWokr\ArithmeticMean\obj\Debug\net6.0\ArithmeticMean.genruntimeconfig.cache
+D:\HW7\HomeWokr\ArithmeticMean\obj\Debug\net6.0\ref\ArithmeticMean.dll
